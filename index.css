@@ -1,0 +1,58 @@
+body {
+    margin: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    display: grid;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.title {
+    color: #16697A;
+    text-align: center;
+    margin-bottom: 1em;
+    margin-right: flex;
+}
+
+.entry-textbox {
+    background-color: aquamarine;
+    color: #16697A;
+    width: 50%;
+    height: 5em;
+    padding: 3em;
+    margin-bottom: 1em;
+    border: unset;
+    border-radius: 15px;
+}
+.entry-textbox:focus {
+    outline: none;
+}
+
+#entryForm .button {
+    border: unset;
+    border-radius: 1em;
+    padding: 1em 2em;
+    margin-left: 47%;
+    background-color: #16697A;
+}
+
+#entries {
+    background-color: aquamarine;
+    color: #16697A;
+    padding: 2em;
+    max-width: 55%;
+    border: unset;
+    border-radius: 15px;
+    margin-top: 2em;
+    font-family: cursive;
+}
+ .entries-nav {
+     padding-bottom: 1em;
+ }
+ 
+ .display-entry-button {
+     margin: 0.2em;
+ }
+ 
+ .display-entry-button:hover {
+     cursor: pointer;
+ }
