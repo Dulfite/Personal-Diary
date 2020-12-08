@@ -16,7 +16,7 @@ body {
 .entry-textbox {
     background-color: aquamarine;
     color: #16697A;
-    width: 50%;
+    width: 100%;
     height: 5em;
     padding: 3em;
     margin-bottom: 1em;
@@ -39,7 +39,7 @@ body {
     background-color: aquamarine;
     color: #16697A;
     padding: 2em;
-    max-width: 55%;
+    width: 100%;
     border: unset;
     border-radius: 15px;
     margin-top: 2em;
